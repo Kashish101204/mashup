@@ -28,7 +28,7 @@ Upload Audio Files → Processing → Mashup Generated → Download Output
 
 ## 📁 Project Structure
 
-    ├── 10230830.py        # Core Logic (CLI Script)
+    ├── 102303830.py        # Core Logic (CLI Script)
     ├── app.py             # Flask Web Application
     ├── requirements.txt   # Dependencies
     ├── output.mp3         # Generated Output File
